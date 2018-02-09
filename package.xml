@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package>
-  <name>gazebo_fpi</name>
+  <name>gazebo_contact_counter</name>
   <version>0.0.0</version>
-  <description>The gazebo_fpi package</description>
+  <description>The gazebo_contact_counter package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->

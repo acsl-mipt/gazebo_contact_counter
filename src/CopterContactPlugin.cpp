@@ -1,4 +1,4 @@
-#include "gazebo_fpi/CopterContactPlugin.h"
+#include "gazebo_contact_counter/CopterContactPlugin.h"
 
 using namespace gazebo;
 GZ_REGISTER_SENSOR_PLUGIN(CopterContactPlugin)
